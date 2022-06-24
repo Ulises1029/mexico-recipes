@@ -1,20 +1,30 @@
 body {
-    background-color: rgb(227, 160, 72);
+    background-color: whitesmoke;
     font: small/1.6em Verdana, Helvetica, Arial, 
     sans-serif;
     margin: 0px;
 }
 header.top {
-    background-color: rgb(209, 187, 164);
+    background-color:white;
     margin: 10px 10px 0px 10px;
     height: 108px;
+    font-size: x-large;
 }
 h1, h2 {
-    color: rgb(243, 235, 235);
+    color: green;
 }
 h1 {
     font-size: 150%;
 }
 h2 {
     font-size: 130%;
+}
+p {
+    color: green;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
