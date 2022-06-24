@@ -1,0 +1,13 @@
+body {
+    font: small/1.6em Verdana, Helvetica, Arial, 
+    sans-serif;
+}
+h1, h2 {
+    color: red;
+}
+h1 {
+    font-size: 150%;
+}
+h2 {
+    font-size: 130%;
+}
