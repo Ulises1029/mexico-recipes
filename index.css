@@ -1,6 +1,13 @@
 body {
+    background-color: palegoldenrod;
     font: small/1.6em Verdana, Helvetica, Arial, 
     sans-serif;
+    margin: 0px;
+}
+header.top {
+    background-color: peru;
+    margin: 10px 10px 0px 10px;
+    height: 108px;
 }
 h1, h2 {
     color: red;
