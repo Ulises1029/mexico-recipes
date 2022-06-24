@@ -1,11 +1,11 @@
 body {
-    background-color: palegoldenrod;
+    background-color: rgb(175, 171, 130);
     font: small/1.6em Verdana, Helvetica, Arial, 
     sans-serif;
     margin: 0px;
 }
 header.top {
-    background-color: peru;
+    background-color: rgb(75, 62, 49);
     margin: 10px 10px 0px 10px;
     height: 108px;
 }
