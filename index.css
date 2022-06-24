@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(175, 171, 130);
+    background-color: rgb(227, 160, 72);
     font: small/1.6em Verdana, Helvetica, Arial, 
     sans-serif;
     margin: 0px;
 }
 header.top {
-    background-color: rgb(75, 62, 49);
+    background-color: rgb(209, 187, 164);
     margin: 10px 10px 0px 10px;
     height: 108px;
 }
 h1, h2 {
-    color: red;
+    color: rgb(243, 235, 235);
 }
 h1 {
     font-size: 150%;
