@@ -1,14 +1,14 @@
-HTML {
+html {
     background-color: rgb(255, 255, 255);
     font-family: "Quicksand", sans-serif;
 
 }
-.heading {
+.head {
     font-size: 62px;
     font-family: "Amatic SC", cursive;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
@@ -24,7 +24,7 @@ a {
 
 }
 
-.heading,
+.head,
 .recipe title {
     text-align: center;
 }
@@ -53,6 +53,52 @@ div img {
     text-align: center;
 }
 
+.left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-left: 30px;
+    width: 420px;
+    height: 1507px;
+}
+
+.left img {
+    border-radius: 10px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.right-top {
+    border-radius: 10px;
+    border: 1px solid rgb(41, 41, 41);
+    height: 500px;
+}
+ 
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.steps container {
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solic rgb(71, 71, 71);
+    height: 987px;
+}
+
+.ingredients-container {
+    border-radius: 10px;
+    background-color: rgb(240, 236, 230);
+    padding: 20px;
+    flex-grow: 3;
+}
+
+.right-top, 
+.steps-container {
+    padding: 0px 20px 0px 20px;
+}
 
 
 
